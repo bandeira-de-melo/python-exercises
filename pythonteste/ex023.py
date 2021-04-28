@@ -1,0 +1,5 @@
+num = input('Digite um número de 0 a 9999: ')
+print('Unidades: ', num[3])
+print('Dezenas: ', num[2])
+print('Centenas', num[1])
+print('Milhares', num[0])
